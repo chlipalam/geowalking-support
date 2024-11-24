@@ -15,7 +15,7 @@ Thank you for using **GeoWalking**! We're here to help if you encounter any issu
 ## Contact Us
 If you didn’t find the answer to your question or need further assistance, feel free to reach out:
 
-- **Email**: [chlipalam@gmail.com](mailto:chlipalam@gmail.com)
+- **Email**: [GeoWalkingTeam@gmail.com](mailto:GeoWalkingTeam@gmail.com)
 - **GitHub Issues**: [GeoWalking Support Repository](https://github.com/chlipalam/geowalking-support)
 
 We'll do our best to respond within 48 hours.
